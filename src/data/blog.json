@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "Shattered Violin",
+            "slug": "shattered-violin",
+            "postedOn": "June 17, 2021",
+            "author": "Ak",
+            "blogImage": "violin.jpg",
+            "blogText": "Est pellentesque elit ullamcorper dignissim. Condimentum lacinia quis vel eros donec ac odio. Habitant morbi tristique senectus et netus et malesuada fames ac. Proin sed libero enim sed faucibus turpis in eu. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Maecenas sed enim ut sem. Proin fermentum leo vel orci porta non pulvinar neque laoreet. Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Tellus in metus vulputate eu scelerisque."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "End of Mars",
+            "slug": "end-of-mars",
+            "postedOn": "June 17, 2021",
+            "author": "Ak",
+            "blogImage": "mars.jpg",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "Trained for sin",
+            "slug": "trained-for-sin",
+            "postedOn": "June 17, 2021",
+            "author": "Ak",
+            "blogImage": "sin.jpg",
+            "blogText": "Turpis cursus in hac habitasse platea dictumst quisque sagittis. Libero enim sed faucibus turpis in eu. Non nisi est sit amet facilisis. Eget arcu dictum varius duis at consectetur lorem donec massa. Risus feugiat in ante metus dictum at tempor commodo. In eu mi bibendum neque. Massa massa ultricies mi quis hendrerit dolor. Hac habitasse platea dictumst quisque. Facilisis leo vel fringilla est. Mauris pharetra et ultrices neque ornare aenean euismod elementum nisi. Vitae purus faucibus ornare suspendisse sed. Non blandit massa enim nec dui nunc. Aliquet risus feugiat in ante. Nam at lectus urna duis."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "The Ruby Star",
+            "slug": "the-ruby-star",
+            "postedOn": "June 17, 2021",
+            "author": "Ak",
+            "blogImage": "ruby.jpg",
+            "blogText": "Risus viverra adipiscing at in tellus integer feugiat. Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Amet volutpat consequat mauris nunc congue nisi vitae. Urna porttitor rhoncus dolor purus. Adipiscing commodo elit at imperdiet dui accumsan sit. Proin nibh nisl condimentum id venenatis a. Vestibulum sed arcu non odio euismod lacinia. Odio morbi quis commodo odio. Tincidunt tortor aliquam nulla facilisi cras. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Magnis dis parturient montes nascetur. Cras adipiscing enim eu turpis egestas. Venenatis cras sed felis eget velit aliquet sagittis. Velit euismod in pellentesque massa. Sit amet consectetur adipiscing elit pellentesque habitant morbi."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Fashion",
+            "blogTitle": "Enter the Storm",
+            "slug": "enter-the-storm",
+            "postedOn": "June 17, 2021",
+            "author": "Ak",
+            "blogImage": "storm.jpg",
+            "blogText": "Viverra orci sagittis eu volutpat odio facilisis mauris sit. Donec massa sapien faucibus et molestie ac feugiat sed. Tempor id eu nisl nunc mi ipsum faucibus vitae. Eget nulla facilisi etiam dignissim diam quis enim. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Pretium fusce id velit ut tortor pretium viverra suspendisse. Sed cras ornare arcu dui vivamus arcu felis bibendum. Gravida rutrum quisque non tellus orci ac. Convallis posuere morbi leo urna molestie at elementum eu. Ipsum dolor sit amet consectetur. Maecenas sed enim ut sem viverra aliquet eget. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Nisi lacus sed viverra tellus in hac. Pellentesque elit eget gravida cum sociis. Diam donec adipiscing tristique risus."
+        }
+    ]
+}
